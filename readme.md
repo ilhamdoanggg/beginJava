@@ -1,0 +1,1 @@
+## Hidup Penuh Perjuangan bung
