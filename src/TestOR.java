@@ -3,7 +3,7 @@ public class TestOR {
 
         int i = 0;
         int j = 10;
-        boolean test=false;
+        boolean test = false;
 
 
         //demostrasi ||
