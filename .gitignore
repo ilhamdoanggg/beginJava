@@ -39,7 +39,6 @@ hs_err_pid*
 *.jar
 *.war
 *.ear
-*.zip
 *.tar.gz
 *.rar
 
